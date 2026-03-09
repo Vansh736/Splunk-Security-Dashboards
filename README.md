@@ -45,7 +45,7 @@ It includes visualizations for:
 
 Queries used in this dashboard are available in:
 
-- [SSH Dashboard Queries](ssh_dashboard_queries.md)
+ [SSH Dashboard Queries](ssh_dashboard_queries.md)
 
 ### SSH Security Dashboard
 
@@ -66,7 +66,7 @@ It includes panels for:
 
 Queries used in this dashboard are available in:
 
-- [Web Traffic Dashboard Queries](web_traffic_dashboard_queries.md)
+ [Web Traffic Dashboard Queries](web_traffic_dashboard_queries.md)
 
 
 ### Web Traffic Dashboard
