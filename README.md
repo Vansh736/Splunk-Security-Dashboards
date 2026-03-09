@@ -4,7 +4,6 @@ This project demonstrates how to create security monitoring dashboards in **Splu
 
 The goal of this project is to practice **log analysis, detection queries, and security visualization using Splunk**.
 
----
 
 ## Project Overview
 
@@ -19,7 +18,7 @@ In this project, multiple dashboards were created using Splunk queries to analyz
 
 These dashboards help security teams quickly detect and investigate potential threats.
 
----
+
 
 ## Tools Used
 
@@ -28,7 +27,7 @@ These dashboards help security teams quickly detect and investigate potential th
 - **Web Traffic Logs** – HTTP access logs  
 - **SPL (Search Processing Language)** – Query language used in Splunk  
 
----
+
 
 ## Dashboards Implemented
 
@@ -46,12 +45,12 @@ It includes visualizations for:
 
 Queries used in this dashboard are available in:
 
-splunk dashboard queries for SSH logs logs.md
+- [SSH Dashboard Queries](ssh_dashboard_queries.md)
 
 ### SSH Security Dashboard
 
-![SSH Dashboard](splunk dashboard queries for SSH logs .png)
----
+![SSH Dashboard](ssh_dashboard.png)
+
 
 ### 2️⃣ Web Traffic Monitoring Dashboard
 
@@ -67,12 +66,12 @@ It includes panels for:
 
 Queries used in this dashboard are available in:
 
-splunk dashboard queries for web traffic logs.md
+- [Web Traffic Dashboard Queries](web_traffic_dashboard_queries.md)
 
 
 ### Web Traffic Dashboard
 
-![Web Traffic Dashboard](splunk dashboard queries for web traffic logs.png)
+![Web Traffic Dashboard](web_traffic_dashboard.png)
 
 
 
